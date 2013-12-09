@@ -1,4 +1,0 @@
-dickis tests
-==
-
-tikrai
